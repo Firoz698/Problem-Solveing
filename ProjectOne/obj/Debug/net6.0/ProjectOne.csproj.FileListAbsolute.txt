@@ -1,0 +1,15 @@
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\bin\Debug\net6.0\ProjectOne.exe
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\bin\Debug\net6.0\ProjectOne.deps.json
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\bin\Debug\net6.0\ProjectOne.runtimeconfig.json
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\bin\Debug\net6.0\ProjectOne.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\bin\Debug\net6.0\ProjectOne.pdb
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\obj\Debug\net6.0\ProjectOne.csproj.AssemblyReference.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\obj\Debug\net6.0\ProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\obj\Debug\net6.0\ProjectOne.AssemblyInfoInputs.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\obj\Debug\net6.0\ProjectOne.AssemblyInfo.cs
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\obj\Debug\net6.0\ProjectOne.csproj.CoreCompileInputs.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\obj\Debug\net6.0\ProjectOne.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\obj\Debug\net6.0\refint\ProjectOne.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\obj\Debug\net6.0\ProjectOne.pdb
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\obj\Debug\net6.0\ProjectOne.genruntimeconfig.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectOne\obj\Debug\net6.0\ref\ProjectOne.dll

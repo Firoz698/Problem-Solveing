@@ -1,0 +1,15 @@
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\bin\Debug\net6.0\ProjectTwo.exe
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\bin\Debug\net6.0\ProjectTwo.deps.json
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\bin\Debug\net6.0\ProjectTwo.runtimeconfig.json
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\bin\Debug\net6.0\ProjectTwo.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\bin\Debug\net6.0\ProjectTwo.pdb
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\obj\Debug\net6.0\ProjectTwo.csproj.AssemblyReference.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\obj\Debug\net6.0\ProjectTwo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\obj\Debug\net6.0\ProjectTwo.AssemblyInfoInputs.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\obj\Debug\net6.0\ProjectTwo.AssemblyInfo.cs
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\obj\Debug\net6.0\ProjectTwo.csproj.CoreCompileInputs.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\obj\Debug\net6.0\ProjectTwo.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\obj\Debug\net6.0\refint\ProjectTwo.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\obj\Debug\net6.0\ProjectTwo.pdb
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\obj\Debug\net6.0\ProjectTwo.genruntimeconfig.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectTwo\obj\Debug\net6.0\ref\ProjectTwo.dll
