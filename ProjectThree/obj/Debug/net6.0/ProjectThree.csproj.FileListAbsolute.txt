@@ -1,0 +1,15 @@
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\obj\Debug\net6.0\ProjectThree.csproj.AssemblyReference.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\obj\Debug\net6.0\ProjectThree.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\obj\Debug\net6.0\ProjectThree.AssemblyInfoInputs.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\obj\Debug\net6.0\ProjectThree.AssemblyInfo.cs
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\obj\Debug\net6.0\ProjectThree.csproj.CoreCompileInputs.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\bin\Debug\net6.0\ProjectThree.exe
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\bin\Debug\net6.0\ProjectThree.deps.json
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\bin\Debug\net6.0\ProjectThree.runtimeconfig.json
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\bin\Debug\net6.0\ProjectThree.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\bin\Debug\net6.0\ProjectThree.pdb
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\obj\Debug\net6.0\ProjectThree.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\obj\Debug\net6.0\refint\ProjectThree.dll
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\obj\Debug\net6.0\ProjectThree.pdb
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\obj\Debug\net6.0\ProjectThree.genruntimeconfig.cache
+G:\Practice Area\C sharp Project\Problem Solveing\ProjectOne\ProjectThree\obj\Debug\net6.0\ref\ProjectThree.dll
