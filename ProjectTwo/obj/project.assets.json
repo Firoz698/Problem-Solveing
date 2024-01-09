@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectTwo\\ProjectTwo.csproj",
+      "projectUniqueName": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectTwo\\ProjectTwo.csproj",
       "projectName": "ProjectTwo",
-      "projectPath": "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectTwo\\ProjectTwo.csproj",
+      "projectPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectTwo\\ProjectTwo.csproj",
       "packagesPath": "C:\\Users\\mdfir\\.nuget\\packages\\",
-      "outputPath": "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectTwo\\obj\\",
+      "outputPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectTwo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdfir\\AppData\\Roaming\\NuGet\\NuGet.Config",

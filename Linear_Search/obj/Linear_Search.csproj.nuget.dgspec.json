@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectTwo\\ProjectTwo.csproj": {}
+    "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\Linear_Search\\Linear_Search.csproj": {}
   },
   "projects": {
-    "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectTwo\\ProjectTwo.csproj": {
+    "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\Linear_Search\\Linear_Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectTwo\\ProjectTwo.csproj",
-        "projectName": "ProjectTwo",
-        "projectPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectTwo\\ProjectTwo.csproj",
+        "projectUniqueName": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\Linear_Search\\Linear_Search.csproj",
+        "projectName": "Linear_Search",
+        "projectPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\Linear_Search\\Linear_Search.csproj",
         "packagesPath": "C:\\Users\\mdfir\\.nuget\\packages\\",
-        "outputPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectTwo\\obj\\",
+        "outputPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\Linear_Search\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdfir\\AppData\\Roaming\\NuGet\\NuGet.Config",

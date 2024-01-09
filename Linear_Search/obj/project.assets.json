@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\ProjectThree.csproj",
-      "projectName": "ProjectThree",
-      "projectPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\ProjectThree.csproj",
+      "projectUniqueName": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\Linear_Search\\Linear_Search.csproj",
+      "projectName": "Linear_Search",
+      "projectPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\Linear_Search\\Linear_Search.csproj",
       "packagesPath": "C:\\Users\\mdfir\\.nuget\\packages\\",
-      "outputPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\obj\\",
+      "outputPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\Linear_Search\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdfir\\AppData\\Roaming\\NuGet\\NuGet.Config",

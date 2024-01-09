@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectOne\\ProjectOne.csproj": {}
+    "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectOne\\ProjectOne.csproj": {}
   },
   "projects": {
-    "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectOne\\ProjectOne.csproj": {
+    "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectOne\\ProjectOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectOne\\ProjectOne.csproj",
+        "projectUniqueName": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectOne\\ProjectOne.csproj",
         "projectName": "ProjectOne",
-        "projectPath": "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectOne\\ProjectOne.csproj",
+        "projectPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectOne\\ProjectOne.csproj",
         "packagesPath": "C:\\Users\\mdfir\\.nuget\\packages\\",
-        "outputPath": "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectOne\\obj\\",
+        "outputPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdfir\\AppData\\Roaming\\NuGet\\NuGet.Config",

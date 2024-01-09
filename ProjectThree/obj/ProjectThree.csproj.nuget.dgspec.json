@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\ProjectThree.csproj": {}
+    "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\ProjectThree.csproj": {}
   },
   "projects": {
-    "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\ProjectThree.csproj": {
+    "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\ProjectThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\ProjectThree.csproj",
+        "projectUniqueName": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\ProjectThree.csproj",
         "projectName": "ProjectThree",
-        "projectPath": "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\ProjectThree.csproj",
+        "projectPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\ProjectThree.csproj",
         "packagesPath": "C:\\Users\\mdfir\\.nuget\\packages\\",
-        "outputPath": "G:\\Practice Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\obj\\",
+        "outputPath": "G:\\Practice Work Area\\C sharp Project\\Problem Solveing\\ProjectOne\\ProjectThree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdfir\\AppData\\Roaming\\NuGet\\NuGet.Config",
