@@ -1,0 +1,15 @@
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\bin\Debug\net6.0\Binary_Number.exe
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\bin\Debug\net6.0\Binary_Number.deps.json
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\bin\Debug\net6.0\Binary_Number.runtimeconfig.json
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\bin\Debug\net6.0\Binary_Number.dll
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\bin\Debug\net6.0\Binary_Number.pdb
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\obj\Debug\net6.0\Binary_Number.csproj.AssemblyReference.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\obj\Debug\net6.0\Binary_Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\obj\Debug\net6.0\Binary_Number.AssemblyInfoInputs.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\obj\Debug\net6.0\Binary_Number.AssemblyInfo.cs
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\obj\Debug\net6.0\Binary_Number.csproj.CoreCompileInputs.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\obj\Debug\net6.0\Binary_Number.dll
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\obj\Debug\net6.0\refint\Binary_Number.dll
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\obj\Debug\net6.0\Binary_Number.pdb
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\obj\Debug\net6.0\Binary_Number.genruntimeconfig.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Binary_Number\obj\Debug\net6.0\ref\Binary_Number.dll

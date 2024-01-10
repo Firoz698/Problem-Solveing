@@ -1,0 +1,8 @@
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Linear_Seach\bin\Debug\Linear_Seach.exe.config
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Linear_Seach\bin\Debug\Linear_Seach.exe
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Linear_Seach\bin\Debug\Linear_Seach.pdb
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Linear_Seach\obj\Debug\Linear_Seach.csproj.AssemblyReference.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Linear_Seach\obj\Debug\Linear_Seach.csproj.SuggestedBindingRedirects.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Linear_Seach\obj\Debug\Linear_Seach.csproj.CoreCompileInputs.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Linear_Seach\obj\Debug\Linear_Seach.exe
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\Linear_Seach\obj\Debug\Linear_Seach.pdb
