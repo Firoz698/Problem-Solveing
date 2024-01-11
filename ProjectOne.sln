@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectTwo", "ProjectTwo\Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectThree", "ProjectThree\ProjectThree.csproj", "{B573A804-38D8-4CC2-A069-B674DDD152A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linear_Search", "Linear_Search\Linear_Search.csproj", "{95853630-DA56-405A-B726-C353ED15C7E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linear_Search", "Linear_Search\Linear_Search.csproj", "{95853630-DA56-405A-B726-C353ED15C7E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{85C3213F-AA3A-4809-9BA5-CC95A74C13F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{85C3213F-AA3A-4809-9BA5-CC95A74C13F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Number", "Binary_Number\Binary_Number.csproj", "{2F0079F3-3BC5-4A9D-B260-7CCD8A3F94FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binary_Number", "Binary_Number\Binary_Number.csproj", "{2F0079F3-3BC5-4A9D-B260-7CCD8A3F94FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linear_Seach", "Linear_Seach\Linear_Seach.csproj", "{7B0ACEE0-1D94-44CA-8C20-9B734CAB0FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{04549A01-FDC5-47F5-8DA0-64D35DD2521F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{7B0ACEE0-1D94-44CA-8C20-9B734CAB0FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B0ACEE0-1D94-44CA-8C20-9B734CAB0FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B0ACEE0-1D94-44CA-8C20-9B734CAB0FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04549A01-FDC5-47F5-8DA0-64D35DD2521F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04549A01-FDC5-47F5-8DA0-64D35DD2521F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04549A01-FDC5-47F5-8DA0-64D35DD2521F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04549A01-FDC5-47F5-8DA0-64D35DD2521F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

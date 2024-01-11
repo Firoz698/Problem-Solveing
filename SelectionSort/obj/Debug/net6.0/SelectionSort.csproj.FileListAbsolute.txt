@@ -1,0 +1,15 @@
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\bin\Debug\net6.0\SelectionSort.exe
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\bin\Debug\net6.0\SelectionSort.deps.json
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\bin\Debug\net6.0\SelectionSort.runtimeconfig.json
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\bin\Debug\net6.0\SelectionSort.dll
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\bin\Debug\net6.0\SelectionSort.pdb
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.AssemblyReference.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\obj\Debug\net6.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfoInputs.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfo.cs
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.CoreCompileInputs.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\obj\Debug\net6.0\SelectionSort.dll
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\obj\Debug\net6.0\refint\SelectionSort.dll
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\obj\Debug\net6.0\SelectionSort.pdb
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\obj\Debug\net6.0\SelectionSort.genruntimeconfig.cache
+G:\Practice Work Area\C sharp Project\Problem Solveing\ProjectOne\SelectionSort\obj\Debug\net6.0\ref\SelectionSort.dll
